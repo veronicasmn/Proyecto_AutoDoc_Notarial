@@ -15,7 +15,7 @@ Este proyecto es un sistema de automatización para la extracción y clasificaci
 
 **Interfaz de Usuario:** La interfaz de usuario está desarrollada en Streamlit, permitiendo la carga de documentos, la visualización de resultados, y la edición de la información extraída. 
 
-### Tecnologías Utilizadas 
+## Tecnologías Utilizadas 
 
 **Azure Form Recognizer:** Para la extracción de texto desde documentos en PDF. 
 
