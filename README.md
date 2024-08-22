@@ -45,9 +45,12 @@ classify_document_with_gpt4(text): Clasifica el tipo de documento utilizando GPT
 Funciones de Extracción de Información Específica: Dependiendo del tipo de documento, se invocan diferentes funciones para extraer detalles específicos, como nombres, fechas, y otros datos relevantes.
 
 ## Uso
-**Requisitos Previos**
-Azure Account: Debes tener una cuenta en Azure con acceso a los servicios de Form Recognizer y OpenAI (para GPT-4).
-API Keys: Asegúrate de tener las claves API para Azure y GPT-4 configuradas en tu entorno.
+**Requisitos Previos** 
+
+Azure Account: Debes tener una cuenta en Azure con acceso a los servicios de Form Recognizer y OpenAI (para GPT-4). 
+
+API Keys: Asegúrate de tener las claves API para Azure y GPT-4 configuradas en tu entorno. 
+
 
 ## Instalación
 Clona el repositorio:
