@@ -7,14 +7,21 @@ Este proyecto es un sistema de automatización para la extracción y clasificaci
 
 ## Características
 
-**Extracción de Texto:** Utiliza Azure Form Recognizer para extraer texto de documentos notariales en PDF.
-**Clasificación del Documento:** Utiliza GPT-4 para clasificar automáticamente el tipo de documento notarial en categorías como "Escritura de constitución", "Escritura de poder", "Estatutos de la sociedad", o determinar si el documento no es válido.
-**Extracción de Información Específica:** Dependiendo del tipo de documento, el sistema extrae detalles específicos, como nombres, fechas, cargos, etc.
-**Interfaz de Usuario:** La interfaz de usuario está desarrollada en Streamlit, permitiendo la carga de documentos, la visualización de resultados, y la edición de la información extraída.
-Tecnologías Utilizadas
-**Azure Form Recognizer:** Para la extracción de texto desde documentos en PDF.
-**GPT-4 (OpenAI a través de Azure):** Para la clasificación de documentos y la extracción de información relevante.
-**Streamlit:** Para la creación de la interfaz de usuario.
+**Extracción de Texto:** Utiliza Azure Form Recognizer para extraer texto de documentos notariales en PDF. 
+
+**Clasificación del Documento:** Utiliza GPT-4 para clasificar automáticamente el tipo de documento notarial en categorías como "Escritura de constitución", "Escritura de poder", "Estatutos de la sociedad", o determinar si el documento no es válido. 
+
+**Extracción de Información Específica:** Dependiendo del tipo de documento, el sistema extrae detalles específicos, como nombres, fechas, cargos, etc. 
+
+**Interfaz de Usuario:** La interfaz de usuario está desarrollada en Streamlit, permitiendo la carga de documentos, la visualización de resultados, y la edición de la información extraída. 
+
+### Tecnologías Utilizadas 
+
+**Azure Form Recognizer:** Para la extracción de texto desde documentos en PDF. 
+
+**GPT-4 (OpenAI a través de Azure):** Para la clasificación de documentos y la extracción de información relevante. 
+
+**Streamlit:** Para la creación de la interfaz de usuario. 
 
 ## Estructura del Proyecto
 El proyecto está dividido en dos archivos principales:
