@@ -2,6 +2,9 @@
 
 Este proyecto es un sistema de automatización para la extracción y clasificación de texto de documentos notariales, utilizando tecnologías avanzadas como Azure, GPT-4 y Streamlit para la interfaz de usuario. Este sistema permite analizar documentos notariales en formato PDF, extraer texto relevante, clasificar el tipo de documento y resaltar información específica dentro del PDF.
 
+![image](https://github.com/user-attachments/assets/cc05e0ff-136e-4555-adde-4a8a4c0bed72)
+
+
 ## Características
 
 **Extracción de Texto:** Utiliza Azure Form Recognizer para extraer texto de documentos notariales en PDF.
