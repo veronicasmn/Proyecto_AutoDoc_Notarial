@@ -61,10 +61,10 @@ pip install -r requirements.txt
 
 Configura tus claves de API de Azure y GPT-4 en las variables de entorno o directamente en el código.
 
-**Ejecución**
+## Ejecución
 Para ejecutar la aplicación, simplemente utiliza el comando:
 
-streamlit run app.py
+streamlit run app.py  
 Luego, abre tu navegador y dirígete a http://localhost:8501 para acceder a la interfaz.
 
 ## Licencia
